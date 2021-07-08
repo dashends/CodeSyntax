@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="org.eclipse.core.contenttype_3.7.1000.v20210409-1722.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.jobs_3.11.0.v20210420-1453.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.resources_3.15.0.v20210521-0722.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.runtime_3.22.0.v20210506-1025.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.equinox.common_3.15.0.v20210518-0604.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.equinox.preferences_3.8.200.v20210212-1143.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.jdt.core_3.26.0.v20210609-0549.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.osgi_3.16.300.v20210525-1715.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.text_3.12.0.v20210512-1644.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
